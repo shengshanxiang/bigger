@@ -1,1 +1,1 @@
-this is a test for studying git.thks.
+this is a test for studying git.
